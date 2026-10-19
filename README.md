@@ -20,7 +20,7 @@ The project includes text preprocessing, document indexing, query processing, do
 
 ### Dashboard
 
-![RankFusion Dashboard](assets/homepage.png)
+![RankFusion Dashboard](assets/Homepage.png)
 ![RankFusion Dashboard](assets/bm25.png)
 
 ### Search Results
