@@ -16,6 +16,19 @@ The system allows users to search a collection of research documents and compare
 
 The project includes text preprocessing, document indexing, query processing, document ranking, evaluation metrics, performance visualizations, and an interactive search interface.
 
+## Application Preview
+
+### Dashboard
+
+![RankFusion Dashboard](assets/homepage.png)
+![RankFusion Dashboard](assets/bm25.png)
+
+### Search Results
+
+![RankFusion Search Results](assets/search-results.png)
+
+**Live Demo:** [Try RankFusion](https://rankfusion-fah8xbenmzrx tdfq3n42b3.streamlit.app/)
+
 ## 2. Objectives
 
 The main objectives of this project are:
