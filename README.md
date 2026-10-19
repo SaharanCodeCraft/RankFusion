@@ -1,7 +1,18 @@
 # RankFusion
 
+### Intelligent Information Retrieval and Multi-Model Search Engine
+
 ### 🔗 Live Demo
 Try RankFusion here: https://rankfusion-fah8xbenmzrxtdfq3n42b3.streamlit.app/
+
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B)
+![Information Retrieval](https://img.shields.io/badge/Domain-Information_Retrieval-purple)
+![Status](https://img.shields.io/badge/Status-Deployed-success)
+
+RankFusion is an information retrieval system built on the Cranfield dataset. It compares four retrieval approaches—TF-IDF, BM25, Sentence Transformers, and Hybrid Reciprocal Rank Fusion (RRF)—through an interactive search interface and quantitative evaluation.
+
+The system evaluates retrieval performance using Precision@10, Recall, Mean Average Precision (MAP), and nDCG@10.
 
 ## 1. Project Overview
 
