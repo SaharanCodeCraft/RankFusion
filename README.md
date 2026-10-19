@@ -225,13 +225,19 @@ The evaluation is conducted across the 225 queries in the current dataset.
 RankFusion evaluates four retrieval approaches on the Cranfield dataset
 using standard information retrieval metrics.
 
-### Model Performance Comparison
+### Mean Average Precision (MAP)
 
-![Model Performance Comparison](report/figures/model_comparison.png)
+![MAP](report/figures/map_comparison.png)
 
-### Precision–Recall Analysis
+### Normalized Discounted Cumulative Gain at 10 (nDCG@10)
 
-![Precision–Recall Curve](report/figures/precision_recall_curve.png)
+![NDCG](report/figures/ndcg_at_10_comparison.png)
+
+### Precision at 10 (P@10)
+![Precision](report/figures/precision_at_10_comparison.png)
+
+### Recall
+![Recall](report/figures/recall_comparison.png)
 
 ## 7. Project Structure
 
