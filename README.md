@@ -218,6 +218,20 @@ For binary relevance metrics, documents with relevance judgments greater than ze
 For nDCG, the original graded relevance judgments are retained.
 
 The evaluation is conducted across the 225 queries in the current dataset.
+---
+
+## 📊 Evaluation and Performance
+
+RankFusion evaluates four retrieval approaches on the Cranfield dataset
+using standard information retrieval metrics.
+
+### Model Performance Comparison
+
+![Model Performance Comparison](report/figures/model_comparison.png)
+
+### Precision–Recall Analysis
+
+![Precision–Recall Curve](report/figures/precision_recall_curve.png)
 
 ## 7. Project Structure
 
