@@ -23,10 +23,6 @@ The project includes text preprocessing, document indexing, query processing, do
 ![RankFusion Dashboard](assets/Homepage.png)
 ![RankFusion Dashboard](assets/bm25.png)
 
-
-
-**Live Demo:** [Try RankFusion](https://rankfusion-fah8xbenmzrxtdfq3n42b3.streamlit.app/)
-
 ## 2. Objectives
 
 The main objectives of this project are:
