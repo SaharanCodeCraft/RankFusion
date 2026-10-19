@@ -1,0 +1,24 @@
+# =============================================================================
+# Cranfield Hybrid Information Retrieval System — Configuration
+# =============================================================================
+
+project_name: "Cranfield Hybrid Information Retrieval System"
+dataset_name: "cranfield"
+
+# Data directories (relative to project root)
+raw_data_directory: "data/raw"
+processed_data_directory: "data/processed"
+
+# Retrieval parameters
+top_k: 10
+random_seed: 42
+
+# BM25 hyperparameters (Okapi defaults)
+bm25_k1: 1.5
+bm25_b: 0.75
+
+# Reciprocal Rank Fusion parameter
+rrf_k: 60
+
+# Sentence Transformer model identifier
+dense_model_name: "all-MiniLM-L6-v2"

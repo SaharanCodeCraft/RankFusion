@@ -1,0 +1,60 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# Large model files / caches
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# HuggingFace cache
+.cache/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local Python environment configuration
+.python-version
+
+# Streamlit secrets
+.streamlit/secrets.toml
