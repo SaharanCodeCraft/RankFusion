@@ -1,4 +1,7 @@
-# Cranfield Information Retrieval System
+# RankFusion
+
+### 🔗 Live Demo
+Try RankFusion here: https://rankfusion-fah8xbenmzrxtdfq3n42b3.streamlit.app/
 
 ## 1. Project Overview
 
