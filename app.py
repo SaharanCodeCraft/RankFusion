@@ -16,7 +16,7 @@ from src.retrieval.hybrid import HybridRetriever
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="Cranfield Search Engine",
+    page_title="RankFusion | Intelligent Search",
     page_icon="🔎",
     layout="wide",
 )
@@ -26,8 +26,11 @@ st.set_page_config(
 # Page header
 # --------------------------------------------------
 
-st.title("🔎 Cranfield Search Engine")
-
+st.title("🔎 RankFusion")
+st.caption(
+    "Intelligent Information Retrieval | "
+    "TF-IDF • BM25 • Semantic Search • Hybrid RRF"
+)
 st.markdown(
     """
     Search the Cranfield aerodynamics collection using
